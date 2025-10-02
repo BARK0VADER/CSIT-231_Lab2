@@ -12,3 +12,9 @@ or N. Be aware the input is case sensitive, so please use capital Y and N.
 the number entered by the user.
 - If recursion is not desired, call a function that does not utilize recursion to calculate the factorial
 of N (N!). Where N is the number entered by the user.
+
+#extra 3 points if you can make it so the user can enter any capitalization or not of Y and N
+-n, y
+-N, Y
+-n -> N
+if you google the function, state where the source was found or else point deduction
